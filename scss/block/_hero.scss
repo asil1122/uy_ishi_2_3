@@ -1,0 +1,36 @@
+.hero {
+    padding-top: 100px;
+}
+
+.hero_content {
+    width: 541px;
+}
+
+.hero_title {
+    font-weight: 500;
+    font-size: 72px;
+    color: #3d3d3f;
+    margin-bottom: 42px;
+}
+
+.hero_text {
+    font-weight: 400;
+    font-size: 20px;
+    color: #3d3d3f;
+    margin-bottom: 40px;
+}
+
+.hero_btn {
+    border-radius: 5px;
+    padding: 15px 28px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    background: linear-gradient(180deg, #f35f2f 0%, rgba(243, 95, 47, 0.75) 100%);
+}
+
+.hero_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

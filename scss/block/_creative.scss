@@ -1,0 +1,44 @@
+.creative {
+    padding-bottom: 60px;
+}
+
+.creative_title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #3d3d3f;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.creative_item {
+    border-radius: 11px;
+    background-color: #fff;
+}
+
+.creative_sub_title {
+    font-weight: 500;
+    font-size: 20px;
+    color: #3d3d3f;
+    padding: 20px 24px 34px 25px;
+}
+
+.creative_list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 29px;
+}
+
+.creative_btn {
+    border-radius: 5px;
+    background: linear-gradient(180deg, #f35f2f 0%, rgba(243, 95, 47, 0.75) 100%);
+    padding: 14px 25px;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.creative_btn_block {
+    text-align: center;
+    margin-top: 60px;
+}

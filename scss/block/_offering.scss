@@ -1,0 +1,52 @@
+.offering {
+    padding-bottom: 120px;
+}
+
+.offering_item {
+    border-radius: 23px;
+    box-shadow: 0 4px 22px 0 rgba(95, 95, 95, 0.05);
+    background-color: #fff;
+    text-align: center;
+    padding: 75px 40px 39px;
+    position: relative;
+}
+
+.offering_icon {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 0;
+}
+
+.offering_list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 51px;
+}
+
+.offering_sub_title {
+    font-weight: 700;
+    font-size: 24px;
+    color: #3d3d3f;
+    margin-bottom: 10px;
+}
+
+.offering_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    text-align: center;
+    color: #595959;
+    width: 277px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 27px;
+}
+
+
+.offering_title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #3d3d3f;
+    margin-bottom: 117px;
+}
